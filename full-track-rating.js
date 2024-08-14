@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Full Track Rating
-// @namespace    http://tampermonkey.net/
+// @namespace    http://rateyourmusic.com/artist/
 // @version      0.1
 // @description  Specifies tracks to 2 decimal places so you don't need to hover over them
 // @author       jschwar03
@@ -12,3 +12,5 @@
     'use strict';
     document.body.style.backgroundColor = "lightblue";
 })();
+
+fd**
